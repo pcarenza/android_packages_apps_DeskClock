@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array  name="aokp_clock_backgrounds_drawable"  translatable="false">
+        <item>appwidget_aokp_blue_clock_dial</item>
+        <item>appwidget_aokp_pink_clock_dial</item>
+        <item>appwidget_aokp_white_clock_dial</item>
+        <item>appwidget_aokp_full_clock_dial</item>
+        <item>appwidget_aokp_blue_light_clock_dial</item>
+        <item>appwidget_aokp_letters_clock_dial</item>
+        <item>appwidget_aokp_blue_letters_clock_dial</item>
+        <item>appwidget_aokp_blue_letters2_clock_dial</item>
+        <item>appwidget_aokp_big_blue_unicorn_clock_dial</item>
+        <item>appwidget_aokp_jelly_clock_dial</item>
+    </string-array>
+
+  <!-- StopWatch. Best lap behaviour labels -->
+  <string-array name="stopwatch_best_lap_behaviour_labels">
+    <item>@string/stopwatch_best_lap_lower_pref</item>
+    <item>@string/stopwatch_best_lap_highest_pref</item>
+  </string-array>
+
+  <!-- StopWatch. Best lap behaviour summary -->
+  <string-array name="stopwatch_best_lap_behaviour_summary">
+    <item>@string/stopwatch_best_lap_lower_pref_summary</item>
+    <item>@string/stopwatch_best_lap_highest_pref_summary</item>
+  </string-array>
+
+  <!-- StopWatch. Best lap behaviour values -->
+  <string-array name="stopwatch_best_lap_behaviour_values" translable="false">
+    <item>0</item>
+    <item>1</item>
+  </string-array>
+
+  <!-- CountDown. Vibrate labels -->
+  <string-array name="countdown_vibrate_labels">
+    <item>@string/countdown_notification_onfinalcountdown_vibrate_always</item>
+    <item>@string/countdown_notification_onfinalcountdown_vibrate_only_when_silent</item>
+    <item>@string/countdown_notification_onfinalcountdown_vibrate_never</item>
+  </string-array>
+
+  <!-- CountDown. Vibrate values -->
+  <string-array name="countdown_vibrate_values" translable="false">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+
+</resources>
